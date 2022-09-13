@@ -17,3 +17,4 @@ def validation_scores(y_test, y_pred):
     print("Accuracy score: ", accuracy_score(y_test, y_pred))
     print("Precision score: ",precision_score(y_test, y_pred))
     print("Recall score: ", recall_score(y_test, y_pred))
+    
