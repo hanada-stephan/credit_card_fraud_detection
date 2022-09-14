@@ -11,7 +11,7 @@ This notebook is part of Alura's course Árvores de Decisão: aprofundando em mo
 
 ## Code and resources
 
-Platform: Google Colab
+Platform: Jupyter Notebook
 
 Python version: 3.7.6
 
